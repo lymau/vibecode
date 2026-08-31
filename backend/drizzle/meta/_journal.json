@@ -8,6 +8,13 @@
       "when": 1788192358030,
       "tag": "0000_lean_leech",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788194474106,
+      "tag": "0001_handy_enchantress",
+      "breakpoints": true
     }
   ]
 }
